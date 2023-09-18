@@ -8,7 +8,7 @@ const DB_VERSION = 23;
 const maxRoomNumForNonVIP = 50;
 const coinSign = '个';
 
-// API 服务器地址
+// API 服务器地址d
 const apiServerURL = 'https://h.zhujunhao.xyz:9293';
 const settingAPIServerToken = 'api-token';
 const settingUserInfo = 'user-info';
